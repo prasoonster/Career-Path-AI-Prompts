@@ -1,0 +1,4 @@
+Useful Prompts
+
+(1) To convert handwritten notes or chatgpt response to Jupyter  notebook markdown cell format. Keep the notes in the same format with no modification.
+ 
